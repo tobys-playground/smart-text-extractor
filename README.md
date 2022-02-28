@@ -1,4 +1,4 @@
-# Smart Text Extractor
+# Smart Text Extractor (Since 2019)
 
 The primary function of the Smart Text Extractor is to extract text from an image taken by a smartphone's camera or retrieved from its gallery.
 
