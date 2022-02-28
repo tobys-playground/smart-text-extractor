@@ -15,7 +15,7 @@ The primary function of the Smart Text Extractor is to extract text from an imag
 4) Create the **Firebase** and **Google Vision** accounts needed for this project. Install Firebase modules: `npm install --save firebase`
 5) **Find API keys on Firebase and Google Visions dashboards** and place them in an **environment.js or .env file** (Remember to mention these files in .gitignore!)
 6) Keys are invoked by the main JavaScript file **App.js** via a **firebase.js** file, which must be in the same folder as the environment.js file 
-7) Note that after loading the app via the Expo CLI, you will be asked to grant the app permission to access your smartphone's gallery and camera
+7) Note that after loading the app via the **Expo CLI**, you will be asked to grant the app permission to access your smartphone's gallery and camera
 
 ## App.js
 
